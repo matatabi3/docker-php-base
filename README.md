@@ -2,6 +2,8 @@
 とにかくサクっとPHP+MySQLで開発環境が作りたい人向け。(Linux Mintで動作確認)
 VSCodeでリモートデバッグするためのlaunch.jsonも同梱しています。
 
+細かい解説は[こちら](https://mag.nioufuku.net/2019/03/02/programming/00017-docker-php-base/)に記載しています。
+
 # 事前準備
 docker と docker-compose をインストールしてPATHを通している状態にする。
 
